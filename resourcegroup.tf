@@ -4,11 +4,11 @@ resource "azurerm_resource_group" "mcit420zz5um" {
 }
 resource "azurerm_resource_group" "mcit420zz5um2" {
   name     = "mcit_resource_group_james"
-  location = "canadacentral"
+  location = "southcentralus"
 }
 resource "azurerm_resource_group" "mcit420zz5um3" {
   name     = "mcit_resource_group_ajiri_3"
-  location = "canadacentral"
+  location = "eastus"
 }
 resource "azurerm_resource_group" "mcit420zz5um4" {
   name     = "mcit_resource_group_james_4"
