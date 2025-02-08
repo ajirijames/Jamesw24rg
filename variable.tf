@@ -13,4 +13,5 @@ variable "tenant_id"{
 }
 variable "storage_name"{
   type=string
+default-
 }
